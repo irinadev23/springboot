@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.PropertySource;
 
 @SpringBootApplication
-public class OttotestApplication {
+public class SpringboottestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OttotestApplication.class, args);
+		SpringApplication.run(SpringboottestApplication.class, args);
 	}
 
 }
